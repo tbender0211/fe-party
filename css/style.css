@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    text-align: center;
+};
+
+#pic-box {
+    align-content: center;
+    padding: 20px;
+};
